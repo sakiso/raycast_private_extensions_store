@@ -4,8 +4,8 @@
   "title": "Hypersonic with IME",
   "description": "Hypersonicを日本語入力でも使いやすく調整しました",
   "icon": "icon-purple.png",
-  "author": "reboot.studio",
-  "owner": "reboot",
+  "author": "s_yama",
+  "owner": "wwwave",
   "access": "public",
   "version": "2.0.4",
   "categories": [
